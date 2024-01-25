@@ -1,4 +1,5 @@
 #Binary Keyboard
+
 WARNING
 =====
 The USB-C's CC pins are attached to 5.1k resistors, allowing smart chargers to output 5v.
