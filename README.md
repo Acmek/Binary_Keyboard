@@ -5,6 +5,9 @@ The USB-C's CC pins are attached to 5.1k resistors, allowing smart chargers to o
 However, the is no onboard regulator! Please do not plug the keyboard into a source greater than 5v!
 
 
+In addition, the contrast for the screen is controlled through PWM, causing slight flickering. However, it is unnoticeable from a distance.
+
+
 Parts
 =====
 The BOM file is formatted to be compatible with JLCPCB's PCBA, but it is possible to solder all components by hand.
